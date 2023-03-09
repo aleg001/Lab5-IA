@@ -28,11 +28,11 @@
     *  Como se puede ver la implementacion que tuvo un mejor desempeño fue la que hace uso de librerias puesto a que este obtuvo un valor de 0.6290. Esta diferencia se le puede atribuir a la forma en la que se realiza la funcion de predicción principalmente por los pesos que se le asignaron a las muestras. 
 
 ### Preguntas Generales
--¿Cómo difirieron los grupos creados por ambos modelos?
+- ¿Cómo difirieron los grupos creados por ambos modelos?
     * Los grupos principalmente difieren en que en el modelo KNN estos se generan en base a las instancias vecinas, es decir los puntos más cercanos en base a una instancia. Mientras que con SVM separamos la data en dos clases las cuales en este caso fueron "legitimate" y "phishing"
 
--¿Cuál de los modelos fue más rápido?
+- ¿Cuál de los modelos fue más rápido?
     * En cuanto al tiempo de ejecución que cada algoritmo toma el modelo más rápido fue el de SVM ya que este únicamente tomo 9.55 segundos en ejecutarse; mientras que el modelo KNN se tomo 42.2 segungos en terminar su ejecución 
 
--¿Qué modelo usarían?
+- ¿Qué modelo usarían?
     * 
