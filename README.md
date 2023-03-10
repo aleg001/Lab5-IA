@@ -35,4 +35,4 @@
     * En cuanto al tiempo de ejecución que cada algoritmo toma el modelo más rápido fue el de SVM ya que este únicamente tomo 9.55 segundos en ejecutarse; mientras que el modelo KNN se tomo 42.2 segungos en terminar su ejecución 
 
 - ¿Qué modelo usarían?
-    * 
+    * En base a la metrica de desmepeño obtenida llegamos a la conclusión que el modelo que utilizariamos seria el de KNN ya que este es más simple, flexible y cuenta con una gran capacidad para manejrar diferetnes tipos de datos 
